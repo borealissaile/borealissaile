@@ -11,23 +11,23 @@
 
 # 🏆 Principais Conquistas:
 
-- ### Otimização de Processos: Reduzi o tempo de cadastro de produtos em 30%, impactando diretamente a eficiência operacional da empresa.
+- Otimização de Processos: Reduzi o tempo de cadastro de produtos em 30%, impactando diretamente a eficiência operacional da empresa.
 
-- ### Manutenção e Suporte: Garanti a manutenção contínua e eficiente do sistema SGO, assegurando que todas as operações fossem realizadas sem interrupções.
+- Manutenção e Suporte: Garanti a manutenção contínua e eficiente do sistema SGO, assegurando que todas as operações fossem realizadas sem interrupções.
 
 # 🎓 Habilidades e Especializações:
 
-- ### Sistema SGO: Profundo conhecimento e experiência no uso e manutenção do sistema.
+- Sistema SGO: Profundo conhecimento e experiência no uso e manutenção do sistema.
 
-- ### Automação de Rotinas: Implementação de rotinas automatizadas para melhorar a eficiência dos processos.
+- Automação de Rotinas: Implementação de rotinas automatizadas para melhorar a eficiência dos processos.
 
-- ### Controle de Células: Gerenciamento eficaz do controle de células para garantir a precisão dos dados.
+- Controle de Células: Gerenciamento eficaz do controle de células para garantir a precisão dos dados.
 
 # 👨‍💻 Desenvolvimento Profissional:
 
-- ### 🚀 Transição para Web3: Atualmente, estou em transição para o desenvolvimento Web3, onde pretendo aplicar meu conhecimento em sistemas e automação em projetos inovadores.
+- Transição para Web3: Atualmente, estou em transição para o desenvolvimento Web3, onde pretendo aplicar meu conhecimento em sistemas e automação em projetos inovadores. 🚀
 
-- ### Aprendizado Contínuo: Estou constantemente buscando aprimorar minhas habilidades e estou aberto a novas oportunidades de aprendizado e colaboração.
+- Aprendizado Contínuo: Estou constantemente buscando aprimorar minhas habilidades e estou aberto a novas oportunidades de aprendizado e colaboração. 🚀
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
